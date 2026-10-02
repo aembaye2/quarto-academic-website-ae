@@ -1,4 +1,5 @@
 # Quarto Academic Website Template
+Copied from: https://github.com/drganghe/quarto-academic-website-template
 
 Welcome! This is a simple and customizable template for building your own academic website using [Quarto](https://quarto.org/). You can easily fork, edit, and publish your site with just a few steps.
 

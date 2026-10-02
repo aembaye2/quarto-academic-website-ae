@@ -1,7 +1,7 @@
 ---
 title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+description-meta: "Quarto Academic Website Template adapted by Abel Embaye"
+image: "files/images/headshot.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -67,30 +67,28 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+## Biography
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
-
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
-
-## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
+Abel Embaye is Clinical Associate Professor of Economics at the University of Arkansas. His research interests include public finance, labor economics and African economies..
 
 ## Education
 
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+- PhD in Economics, 2007, Georgia State University
+
+- Masters in Economics, 1999, Tilburg University
+
+- BA in Economics, 1995, Asmara University
+
+## Research Interests 
+
+- Public Finance
+- Labor Economics
+- African Economies
 
 :::
 
-
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+
 ## Recent Posts
 Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
